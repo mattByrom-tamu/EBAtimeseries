@@ -1,0 +1,7 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^packageManagementScript\.R$
+^EBA-master$
+^fEBA-main$
+^mEBA-main$
